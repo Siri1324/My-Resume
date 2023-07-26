@@ -1,2 +1,2 @@
 # My-Resume
-my capstone project-Html portfolio
+Html portfolio
